@@ -9,3 +9,5 @@ https://scratch.mit.edu/terms_of_use
 Turbowarp Packager
 https://packager.turbowarp.org/
 を使用していることに留意してください。
+
+また、Mojor Monodisplayも使用しています。
