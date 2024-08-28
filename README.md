@@ -4,5 +4,5 @@
 主に .sb3 ファイルで行います。
 ## Link
 [地震地図](https://kouhei-1.github.io/Earthquake_map/)
-## credit
+## Credit
 [credit](https://github.com/kouhei-1/Earthquake_map/blob/main/credit.md)
