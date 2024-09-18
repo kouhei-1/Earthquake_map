@@ -1,5 +1,5 @@
 # credit
-[Japan Meteorological Agency](https://www.jma.go.jp/) - [Seismic intensity date base](https://www.data.jma.go.jp/svd/eqdb/data/shindo/)
+[Japan Meteorological Agency](https://www.jma.go.jp/) - [Seismic intensity data base](https://www.data.jma.go.jp/svd/eqdb/data/shindo/)
 Data from the above site has been modified and used
 
 Washiucho - [Flag-map of Japan.svg](https://commons.m.wikimedia.org/wiki/File:Flag-map_of_Japan.svg)
